@@ -1,0 +1,15 @@
+{
+  "name": "Wassenger",
+  "url": "https://wassenger.com/black-friday",
+  "description": "WhatsApp for teams: AI agent, shared inbox, CRM and the official WhatsApp Business API with a REST API and MCP server",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "40% off the first 6 months of any monthly plan with code BLACKFRIDAY40",
+  "code": "BLACKFRIDAY40",
+  "pricing": "subscription",
+  "price": { "regular": 39.9, "sale": 23.94, "currency": "EUR" },
+  "discount": 40,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://wassenger.com/images/apple-icon.png"
+}
